@@ -4,4 +4,6 @@
 
 ## Pre-workshop tasks
 
-tested Git from RStudio on personal computer."Alexis tested GIT from command line on personal computer" 
+Alexis tested Git from RStudio on personal computer.
+
+"Alexis tested GIT from command line on personal computer" 
