@@ -4,4 +4,4 @@
 
 ## Pre-workshop tasks
 
-tested Git from RStudio on personal computer.
+I tested Git from RStudio on personal computer.
